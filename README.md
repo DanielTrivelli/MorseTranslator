@@ -14,7 +14,7 @@ It's to understand how we can simultaneously translate according to sound itself
     ----------
     Mode:  1
 
-    Whrite Here: Lorem ipsum dolor sit amet
+    Write Here: Lorem ipsum dolor sit amet
 
 >> .-.. --- .-. . --   .. .--. ... ..- --   -.. --- .-.. --- .-.   ... .. -   .- -- . -
 ```
@@ -26,7 +26,7 @@ It's to understand how we can simultaneously translate according to sound itself
     ----------
     Mode:  2
 
-    Whrite Here: .-.. --- .-. . --   .. .--. ... ..- --   -.. --- .-.. --- .-.   ... .. -   .- -- . -
+    Write Here: .-.. --- .-. . --   .. .--. ... ..- --   -.. --- .-.. --- .-.   ... .. -   .- -- . -
 
 >> lorem  ipsum  dolor  sit  amet 
 ```
