@@ -1,4 +1,4 @@
-from scripts.morse_code import MORSE_CODE, INVERTED_MORSE_CODE
+from morse_code import MORSE_CODE, INVERTED_MORSE_CODE
 
 
 def char_to_morse(chars: str) -> str:
